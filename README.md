@@ -82,8 +82,6 @@ https://github.com/Bcollado0310
 https://github.com/Pejeloco
 
 3. **Jaime Berasategui**: 
-https://github.com/Jaimeberasategui
-https://www.linkedin.com/in/jaime-berasategui-4b0a5b254/
+https://github.com/Jaimeberasategui // https://www.linkedin.com/in/jaime-berasategui-4b0a5b254/
 4. **Jose Urgal**: 
-https://github.com/Joseurgal
-https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/ 
+https://github.com/Joseurgal // https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/ 
