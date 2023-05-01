@@ -93,3 +93,5 @@ Mainly, try to make webscraping of airbnb, but from other places. We suggest:
 - Valencia
 - Sevilla
 - Bilbao
+
+Moreover, another way to improve our project is by including a user interface.
