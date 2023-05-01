@@ -73,3 +73,17 @@ The Airbnb Madrid Price Prediction and Heatmap app consist of the following main
 
 6. **Heatmap Generation**: Creating an interactive heatmap that visualizes the distribution of predicted prices for Airbnb listings in Madrid, including the user's listing.
 
+## Credits:
+
+1. **Brian Collado**: 
+https://github.com/Bcollado0310
+
+2. **Andres Gerli**: 
+https://github.com/Pejeloco
+
+3. **Jaime Berasategui**: 
+https://github.com/Jaimeberasategui
+https://www.linkedin.com/in/jaime-berasategui-4b0a5b254/
+4. **Jose Urgal**: 
+https://github.com/Joseurgal
+https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/ 
