@@ -92,6 +92,8 @@ The following resources were used in the development of this code:
 
 ## Credits:
 
+This project was created for our Algorithms and Data Structures course at IE University. The project was created by:
+
 1. **Brian Collado**: 
 https://github.com/Bcollado0310
 
