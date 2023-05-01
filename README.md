@@ -95,7 +95,7 @@ The following resources were used in the development of this code:
 This project was created for our Algorithms and Data Structures course at IE University. The project was created by:
 
 1. **Brian Collado**: 
-https://github.com/Bcollado0310 // https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav
+https://github.com/Bcollado0310 // https://www.linkedin.com/in/brian-collado-37a333243/
 
 2. **Andres Gerli**: 
 https://github.com/Pejeloco // https://www.linkedin.com/in/andres-gerli-29956422b/
