@@ -53,7 +53,7 @@ Ensure that you have the following installed on your system:
 - Run the script using the following command: python stratup_main.py
 - Follow the on-screen prompts to input information about your listing
 - The script will predict the price for your listing, evaluate your suggested price, and generate a heatmap that includes your listing
-- The heatmap will be saved as madrid_centro_heatmap.html in your current directory. Open this file in a web browser to view the heatmap
+- The heatmap will be saved as madrid_centro_heatmap.html in your current directory. Open this file in a web browser to view the heatmap.
 - If you want to save multiple heatmaps, rename the existing madrid_centro_heatmap.html file before running the script again
 
 
@@ -69,7 +69,7 @@ The Airbnb Madrid Price Prediction and Heatmap app consist of the following main
 
 4. **Price Prediction**: Using the trained model to predict the price of a new Airbnb listing based on the number of guests, whether the host is a superhost, and the location (latitude and longitude).
 
-5. **Price Evaluation**: Comparing the predicted price with the user's suggested price and providing a price suggestion category (A, B, C, or D).
+5. **Price Evaluation**: Comparing the predicted price with the user's suggested price and providing a price suggestion category (A, B, C, or D). If the user's suggested price has a percentage difference ± 5, it's ranked as category A. If the percentage difference ± 10, it's ranked as category B. If the percentage difference ± 20, it's ranked as category C. Else, it's ranked as category D.
 
 6. **Heatmap Generation**: Creating an interactive heatmap that visualizes the distribution of predicted prices for Airbnb listings in Madrid, including the user's listing.
 
