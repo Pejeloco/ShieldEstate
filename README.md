@@ -1,6 +1,6 @@
 # ShieldEstate: Ensuring Your Rent
 
-ShieldEstate; an app-based project where anyone seeking to rent their apartments through platforms such as Airbnb can ensure they rent at a competitive price. The app also generates an interactive mapp for you where you can vizualize the distribution of predicted prices all over Madrid!!
+ShieldEstate; an app where anyone seeking to rent can ensure a competitive price in Madrid!!! Including an nteractive map for you where you can vizualize the distribution of predicted prices for Airbnb all over Madrid!
 
 
 ##Desccription: 
