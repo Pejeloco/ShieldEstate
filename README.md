@@ -79,9 +79,17 @@ The Airbnb Madrid Price Prediction and Heatmap app consist of the following main
 https://github.com/Bcollado0310
 
 2. **Andres Gerli**: 
-https://github.com/Pejeloco
+https://github.com/Pejeloco // https://www.linkedin.com/in/andres-gerli-29956422b/
 
 3. **Jaime Berasategui**: 
 https://github.com/Jaimeberasategui // https://www.linkedin.com/in/jaime-berasategui-4b0a5b254/
 4. **Jose Urgal**: 
 https://github.com/Joseurgal // https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/ 
+
+## How you can contribute to this project:
+
+Mainly, try to make webscraping of airbnb, but from other places. We suggest:
+- Barcelona
+- Valencia
+- Sevilla
+- Bilbao
