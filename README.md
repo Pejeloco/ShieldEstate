@@ -73,6 +73,23 @@ The Airbnb Madrid Price Prediction and Heatmap app consist of the following main
 
 6. **Heatmap Generation**: Creating an interactive heatmap that visualizes the distribution of predicted prices for Airbnb listings in Madrid, including the user's listing.
 
+
+## Resources Used
+The following resources were used in the development of this code:
+
+- Python 3
+- Pandas
+- NumPy
+- Folium
+- Folium.plugins
+- Folium.map
+- Scikit-learn
+- Sklearn.ensemble
+- Sklearn.preprocessing
+- Sklearn.model_selection
+- Branca
+
+
 ## Credits:
 
 1. **Brian Collado**: 
