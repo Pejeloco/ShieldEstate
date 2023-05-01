@@ -1,3 +1,6 @@
+
+![ShieldEstate](https://user-images.githubusercontent.com/126095106/235503538-04492a65-e4c1-42e0-85b0-9d5529f416d0.jpg)
+
 # ShieldEstate: Ensuring Your Rent
 
 ShieldEstate; an app where anyone seeking to rent can ensure a competitive price in Madrid!!! Including an nteractive map for you where you can vizualize the distribution of predicted prices for Airbnb all over Madrid!
@@ -78,16 +81,16 @@ The Airbnb Madrid Price Prediction and Heatmap app consist of the following main
 The following resources were used in the development of this code:
 
 - Python 3
-- Pandas
-- NumPy
-- Folium
+- [Pandas]([url](https://pandas.pydata.org/))
+- [NumPy]([url](https://numpy.org/))
+- [Folium]([url](https://pypi.org/project/folium/))
 - Folium.plugins
 - Folium.map
-- Scikit-learn
+- [Scikit-learn]([url](https://scikit-learn.org/stable/))
 - Sklearn.ensemble
 - Sklearn.preprocessing
 - Sklearn.model_selection
-- Branca
+- [Branca]([url](https://pypi.org/project/branca/))
 
 
 ## Credits:
@@ -95,7 +98,7 @@ The following resources were used in the development of this code:
 This project was created for our Algorithms and Data Structures course at IE University. The project was created by:
 
 1. **Brian Collado**: 
-https://github.com/Bcollado0310 // https://www.linkedin.com/in/brian-collado-37a333243/
+https://github.com/Bcollado0310
 
 2. **Andres Gerli**: 
 https://github.com/Pejeloco // https://www.linkedin.com/in/andres-gerli-29956422b/
@@ -103,7 +106,7 @@ https://github.com/Pejeloco // https://www.linkedin.com/in/andres-gerli-29956422
 3. **Jaime Berasategui**: 
 https://github.com/Jaimeberasategui // https://www.linkedin.com/in/jaime-berasategui-4b0a5b254/
 4. **Jose Urgal**: 
-https://github.com/Joseurgal // https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/
+https://github.com/Joseurgal // https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/https://www.linkedin.com/in/jos%C3%A9-urgal-saracho-255b99250/ 
 
 ## How you can contribute to this project:
 
