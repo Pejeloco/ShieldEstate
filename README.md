@@ -13,8 +13,6 @@ ShieldEstate has created an app capable of offering your estate's predicted pric
 
 ## Table of Contents
 
-- [ShieldEstate: Ensuring Your Rent](#shieldestate-ensuring-your-rent)
-- [Description](#description)
 - [Key Features](#key-features)
 - [Limitations](#limitations)
 - [Installation & Usage](#installation--usage)
