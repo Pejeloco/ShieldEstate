@@ -52,6 +52,10 @@ These limitations should be taken into account when using the app to make decisi
 
 Follow these instructions to set up and use the Airbnb Madrid Price Prediction and Heatmap app:
 
+### Information
+
+To execute the code it will be necessary to have installed in the system Python. The study has been done on the Windows 11 OS and the code has been written in Visual Studio Code.
+
 ### Prerequisites
 
 Ensure that you have the following installed on your system:
