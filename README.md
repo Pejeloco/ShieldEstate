@@ -74,7 +74,7 @@ Ensure that you have the following installed on your system:
 
 - Open your command prompt terminal.
 - Set up you terminal directory to be the folder where you store the downloaded documents.
-- create a virtual environment inside with this new file directory
+- create and activate a virtual environment with the folder of shield estate app as your directory.
 - Run the following line of code to install all the necessary libraries:
   ``` bash
   pip install -r requirements.txt
