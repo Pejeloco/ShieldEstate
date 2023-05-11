@@ -13,8 +13,8 @@ ShieldEstate has created an app capable of offering your estate's predicted pric
 
 ## Table of Contents
 
-- [Key Features](#key-features)
-- [Limitations](#limitations)
+- Key Features
+- Limitations
 - [Installation & Usage](#installation--usage)
 - - [Prerequisites](#prerequisites)
 - - [Setup](#setup)
@@ -66,16 +66,17 @@ Ensure that you have the following installed on your system:
 
 ### Setup
 
-- Clone the repository or download the source code.
+- Clone the repository or download the resources inside the Shield Estate app folder.
 - Ensure that all the files, including the dataset file are in the same folder.
-- Set that folder as your working directory in you Python IDE.
+- Set that folder as your working directory in your terminal.
 
 ### Usage
 
-- Open your terminal, it can be your command propmt in windows.
+- Open your command prompt terminal.
 - Set up you terminal directory to be the folder where you store the downloaded documents.
 - create a virtual environment inside with this new file directory
-- Run the following code to install all the necessary libraries:
+- Run the following line of code to install all the necessary libraries: pip install -r requirements.txt
+- Run the following line of code to initizalize the Shield estate app: python startup_main.py
 - Follow the on-screen prompts to input information about your listing
 - The script will predict the price for your listing, evaluate your suggested price, and generate a heatmap that includes your listing
 - The heatmap will be saved as madrid_centro_heatmap.html in your current directory. Open this file in a web browser to view the heatmap.
@@ -86,7 +87,7 @@ Ensure that you have the following installed on your system:
 
 The Airbnb Madrid Price Prediction and Heatmap app consist of the following main components:
 
-1. **User Authentication**: Securely handling user login and registration, ensuring only authorized users have access to the app's features.
+1. **User Authentication**: Storing the Sign up user's information in a dictionary, to provide a secure login.
 
 2. **Data Preprocessing**: Importing and cleaning the dataset, including removing outliers and converting data types as necessary.
 
