@@ -54,7 +54,7 @@ Follow these instructions to set up and use the Airbnb Madrid Price Prediction a
 
 ### Information
 
-To execute the code it will be necessary to have installed in the system Python. The study has been done on the Windows 11 OS and the code has been written in Visual Studio Code.
+To execute the code it will be necessary to have installed in the system Python. The study has been done on the Windows 11 OS and the code has been written in Python 3.10.11 version.
 
 ### Prerequisites
 
