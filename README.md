@@ -61,16 +61,21 @@ To execute the code it will be necessary to have installed in the system Python.
 Ensure that you have the following installed on your system:
 
 - Python 3.x
-- Required Python libraries: pandas, numpy, folium, scikit-learn, jinja2, branca
+- pip command mus be installed in order to import the following python libraries
+- Required Python libraries: pandas, numpy, folium, scikit-learn, branca, pickle, os, webbrowser
 
 ### Setup
 
 - Clone the repository or download the source code.
-- Ensure that all the files, including the dataset file are in the same working directory.
+- Ensure that all the files, including the dataset file are in the same folder.
+- Set that folder as your working directory in you Python IDE.
 
 ### Usage
 
-- Run the script using the following command: python stratup_main.py
+- Open your terminal, it can be your command propmt in windows.
+- Set up you terminal directory to be the folder where you store the downloaded documents.
+- create a virtual environment inside with this new file directory
+- Run the following code to install all the necessary libraries:
 - Follow the on-screen prompts to input information about your listing
 - The script will predict the price for your listing, evaluate your suggested price, and generate a heatmap that includes your listing
 - The heatmap will be saved as madrid_centro_heatmap.html in your current directory. Open this file in a web browser to view the heatmap.
