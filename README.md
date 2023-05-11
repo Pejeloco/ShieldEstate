@@ -75,8 +75,8 @@ Ensure that you have the following installed on your system:
 - Open your command prompt terminal.
 - Set up you terminal directory to be the folder where you store the downloaded documents.
 - create a virtual environment inside with this new file directory
-- Run the following line of code to install all the necessary libraries: ```pip install -r requirements.txt```
-- Run the following line of code to initizalize the Shield estate app: ```python startup_main.py```
+- Run the following line of code to install all the necessary libraries: ```pip install -r requirements.txt
+- Run the following line of code to initizalize the Shield estate app: ```python startup_main.py
 - Follow the on-screen prompts to input information about your listing
 - The script will predict the price for your listing, evaluate your suggested price, and generate a heatmap that includes your listing
 - The heatmap will be saved as madrid_centro_heatmap.html in your current directory. Open this file in a web browser to view the heatmap.
